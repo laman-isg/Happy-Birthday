@@ -21,7 +21,6 @@ const colors = [
 { front: 'purple', back: 'darkpurple' },
 { front: 'turquoise', back: 'darkturquoise' }];
 
-
 //-----------Functions--------------
 resizeCanvas = () => {
   canvas.width = window.innerWidth;
